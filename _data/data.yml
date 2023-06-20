@@ -1,43 +1,31 @@
-name: John Doe
+name: Pedro Victor
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: pedrex457@gmail.com
+  github: ChurrascoVegano
+  linkedin: 
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Português
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: TI
+    time: 2023-2025
+    university: IFRN
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - Python
   - category: Frontend
     skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - HTML 
 
 # Profile
 profile: |
@@ -76,12 +64,12 @@ experience:
 publications:
   - title: Random title of paper. An interesting one.
     link: "#"
-    authors: John E. Doe
+    authors: Balalau
     conference: Some conference, 2016
 
   - title: Second title of paper. An interesting one too.
     link: "#"
-    authors: John E. Doe
+    authors: Balalau
     conference: Some conference again, 2018
 
 projects:
